@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/9410e6eec2f6414bea0e262cfae8def9af365b8672b06ba16bb306bf2db5be51/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f35362f63612f36353536636130383836613232393438353733633138343531363965376132312e676966)](https://yuv2020.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://yuv2020.io)
 <h1 align="center">Hi 👋, I'm Yuvraj Tomar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1719792000&semt=ais_user">
